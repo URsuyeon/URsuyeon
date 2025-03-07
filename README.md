@@ -1,8 +1,8 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/URsuyeon"
-  width="600"
-  height="500"
+  width="800"
+  height="300"
 />
 </a>
 

@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?color=black&type=Waving)
-
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/URsuyeon"
